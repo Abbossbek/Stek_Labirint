@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Stek_Labirint
+namespace Perceptron
 {
     static class Program
     {
