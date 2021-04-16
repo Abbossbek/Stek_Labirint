@@ -9,7 +9,7 @@ namespace Perceptron.Models
     public class Perceptron
     {
         public int Id { get; set; }
-        public bool[] Data { get; set; }
+        public int[] Data { get; set; }
         public string Result { get; set; }
     }
 }
